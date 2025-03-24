@@ -1,110 +1,29 @@
 [
-  {
-    "appid": "app6",
-    "appkey": "14705247"
-  },
-  {
-    "appid": "app7",
-    "appkey": "R-M-14705288-1"
-  },
-  {
-    "appid": "app8",
-    "appkey": "R-M-14705316-1"
-  },
-  {
-    "appid": "app9",
-    "appkey": "R-M-14705318-1"
-  },
-  {
-    "appid": "app10",
-    "appkey": "R-M-14705320-1"
-  },
-  {
-    "appid": "app11",
-    "appkey": "R-M-14705338-1"
-  },
-  {
-    "appid": "app12",
-    "appkey": "R-M-14705339-1"
-  },
-  {
-    "appid": "app13",
-    "appkey": "R-M-14705356-1"
-  },
-  {
-    "appid": "app14",
-    "appkey": "R-M-14705374-1"
-  },
-  {
-    "appid": "app15",
-    "appkey": "R-M-14705392-1"
-  },
-  {
-    "appid": "app16",
-    "appkey": "R-M-14705408-1"
-  },
-  {
-    "appid": "app17",
-    "appkey": "-"
-  },
-  {
-    "appid": "app18",
-    "appkey": "-"
-  },
-  {
-    "appid": "app19",
-    "appkey": "-"
-  },
-  {
-    "appid": "app20",
-    "appkey": "-"
-  },
-  {
-    "appid": "app21",
-    "appkey": "-"
-  },
-  {
-    "appid": "app22",
-    "appkey": "-"
-  },
-  {
-    "appid": "app23",
-    "appkey": "-"
-  },
-  {
-    "appid": "app24",
-    "appkey": "-"
-  },
-  {
-    "appid": "app25",
-    "appkey": "-"
-  },
-  {
-    "appid": "app26",
-    "appkey": "-"
-  },
-  {
-    "appid": "app27",
-    "appkey": "-"
-  },
-  {
-    "appid": "app28",
-    "appkey": "-"
-  },
-  {
-    "appid": "app29",
-    "appkey": "-"
-  },
-  {
-    "appid": "app30",
-    "appkey": "-"
-  },
-  {
-    "appid": "app31",
-    "appkey": "-"
-  },
-  {
-    "appid": "app32",
-    "appkey": "-"
-  }
+    { "appid": "app6", "appkey": "14705247" },
+    { "appid": "app7", "appkey": "R-M-14705288-1" },
+    { "appid": "app8", "appkey": "R-M-14705316-1" },
+    { "appid": "app9", "appkey": "R-M-14705318-1" },
+    { "appid": "app10", "appkey": "R-M-14705320-1" },
+    { "appid": "app11", "appkey": "R-M-14705338-1" },
+    { "appid": "app12", "appkey": "R-M-14705339-1" },
+    { "appid": "app13", "appkey": "R-M-14705356-1" },
+    { "appid": "app14", "appkey": "R-M-14705374-1" },
+    { "appid": "app15", "appkey": "R-M-14705392-1" },
+    { "appid": "app16", "appkey": "R-M-14705408-1" },
+    { "appid": "app17", "appkey": "-" },
+    { "appid": "app18", "appkey": "-" },
+    { "appid": "app19", "appkey": "-" },
+    { "appid": "app20", "appkey": "-" },
+    { "appid": "app21", "appkey": "-" },
+    { "appid": "app22", "appkey": "-" },
+    { "appid": "app23", "appkey": "-" },
+    { "appid": "app24", "appkey": "-" },
+    { "appid": "app25", "appkey": "-" },
+    { "appid": "app26", "appkey": "-" },
+    { "appid": "app27", "appkey": "-" },
+    { "appid": "app28", "appkey": "-" },
+    { "appid": "app29", "appkey": "-" },
+    { "appid": "app30", "appkey": "-" },
+    { "appid": "app31", "appkey": "-" },
+    { "appid": "app32", "appkey": "-" }
 ]
