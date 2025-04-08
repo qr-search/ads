@@ -1,4 +1,9 @@
 [
+    { "appid": "app1", "appkey": "" },
+    { "appid": "app2", "appkey": "" },
+    { "appid": "app3", "appkey": "" },
+    { "appid": "app4", "appkey": "" },
+    { "appid": "app5", "appkey": "" },
     { "appid": "app6", "appkey": "14705247" },
     { "appid": "app7", "appkey": "14705288" },
     { "appid": "app8", "appkey": "14705316" },
